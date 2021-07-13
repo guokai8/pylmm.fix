@@ -1,4 +1,5 @@
-# pylmm.fix
+# pylmm  A lightweight linear mixed-model solver
+# pylmmfix
 fixed some issues from https://github.com/nickFurlotte/pylmm 
 tested on with python 3.9
 ## Installation
